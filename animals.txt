@@ -1,6 +1,0 @@
-cat
-dog
-chickens
-bunny
-horse
-elephant
